@@ -204,7 +204,7 @@ zx = xyz()
     
 print(zx)'''
 
-
+#used to mange code--oops
 
 
 
@@ -231,7 +231,7 @@ print(zx)'''
 
 
 
-# how to achive method overlaoding:
+# how to achive method overlaoding: when we set parmeter to default
 '''
 class cls1:
     def sumthis(self, a = None, b = None, c = None):
