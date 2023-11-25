@@ -22,4 +22,4 @@ curser.execute("select * from Students;")
 
 zx = curser.fetchall()
 
-print(zx)
+print(zx)     
